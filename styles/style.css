@@ -1,0 +1,57 @@
+/*Google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+/*font-family: "Anton", sans-serif;
+font-family: "Anton", sans-serif;
+*/
+
+
+body {
+    background-color:#DEE5E5 ;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+ p {
+    color: #0E3B43;
+    font-size: 1.5rem;
+ }
+.parrafo-diferente {
+color: #0F0202;
+}
+li {
+    font-size: 1.2rem;
+}
+
+/*header*/
+.logo {
+    width: 120px;
+    height: 80px;
+}
+
+header nav ul li {
+    list-style: none;
+}
+.nav-link {
+    text-decoration: none;
+    color: #17202A;;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.RRSS-img{
+    height: 5vh;
+    width: auto;
+}
